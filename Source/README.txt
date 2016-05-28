@@ -1,4 +1,5 @@
 ﻿Cellular Automata
+Copyright @ 2008-2016 Paul Ennemoser (paul.ennemoser.com)
 
 How to start:
 Open automata.html with a Silverlight compatible browser like Microsoft Internet Explorer
@@ -18,11 +19,11 @@ Now we take this triple and use a lookup table to get the state of the entry.
 Here are the lookup tables for two of the most famous patterns:
 
 Rule 30 cellular automaton lookup table:
-current pattern	           111 110 101 100 011 010 001 000
+current pattern	               111     110     101     100     011     010     001     000
 new state for center cell	0	0	0	1	1	1	1	0
 Rule 110 cellular automaton lookup table:
 
-current pattern			   111 110 101 100 011 010 001 000
+current pattern		       111     110     101     100     011     010     001     000
 new state for center cell	0	1	1	0	1	1	1	0
 
 Wiki: http://en.wikipedia.org/wiki/Cellular_automata
